@@ -8,11 +8,7 @@
   <name>SpringExample</name>
   <url>http://maven.apache.org</url>
 	
-<plugin>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.0.2</version>
-</plugin>
+
 	
 	<profiles>
         <profile>
