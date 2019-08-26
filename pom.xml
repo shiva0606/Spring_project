@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 	
 	
-	<profiles>
+      <profiles>
         <profile>
             <id>sonar</id>
             <activation>
