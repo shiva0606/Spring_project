@@ -8,7 +8,7 @@
   <name>SpringExample</name>
   <url>http://maven.apache.org</url>
 
-	<pluginManagement>
+	
     <plugins>
         ...
         <plugin>
@@ -17,7 +17,7 @@
             <version>7.9.1</version>
         </plugin>
     </plugins>
-</pluginManagement>
+
 	
       <profiles>
         <profile>
